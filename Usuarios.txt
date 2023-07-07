@@ -1,0 +1,6 @@
+Super usuario
+Usuario : admin
+contraseña : admin
+Usario vista
+Usuario: juanito
+Contraseña: caramelos
